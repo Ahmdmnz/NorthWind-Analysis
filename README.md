@@ -17,7 +17,10 @@ Insights & Recommendations
   Spotlighting Top-Selling Products helps allocate resources, Product Contribution to Revenue identifies star performers, Inventory Turnover (if tracked) optimizes   stock levels, and Supplier Lead Time ensures timely restocking.  
 
 - **Employee Performance**  
-  Sales per Employee and Orders Handled per Employee reveal productivity gaps, while Employee Sales Growth highlights who’s excelling over time.  
+  Sales per Employee and Orders Handled per Employee reveal productivity gaps, while Employee Sales Growth highlights who’s excelling over time.
+
+ # Data Structure & Initial Chcks
+ 
 
 - **Financial Health**  
   Gross Profit Margin keeps tabs on operational efficiency, and Net Profit Margin tells the full story of profitability after all costs.  
