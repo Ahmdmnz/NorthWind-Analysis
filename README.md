@@ -24,3 +24,4 @@ Insights & Recommendations
 
 # Data Structure & Initial Chcks
 
+![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-29%20062536.png?raw=true)
