@@ -23,5 +23,5 @@ Insights & Recommendations
   Gross Profit Margin keeps tabs on operational efficiency, and Net Profit Margin tells the full story of profitability after all costs.
 
 # Data Structure & Initial Chcks
-## North Wind's database structure as seen bellow consist of eight tables: Employees, Calendar, Products, Suppliers, Orders, Order Details, Categories, Customers.
+North Wind's database structure as seen bellow consist of eight tables: Employees, Calendar, Products, Suppliers, Orders, Order Details, Categories, Customers.
 ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-29%20062536.png?raw=true)
