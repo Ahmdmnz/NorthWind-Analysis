@@ -25,3 +25,11 @@ Insights & Recommendations
 # Data Structure & Initial Chcks
 North Wind's database structure as seen bellow consist of eight tables: Employees, Calendar, Products, Suppliers, Orders, Order Details, Categories, Customers.
 ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-29%20062536.png?raw=true)
+
+# Excutive Summary
+## Overview of Findings
+Company Sales have continued to increase, with significant increase in 2021. Key Performance indicators all have shown year-over-year increase: Order Volume by 13%, Revenue by 44% and Average Order Value by 27%. While this increase can be brodly attributed to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key oppurtonity areas for improvement.
+
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
+
+![image]()
