@@ -33,3 +33,12 @@ Company Sales have continued to increase, with significant increase in 2021. Key
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
 
 ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-31%20051222.png?raw=true)
+
+## Sales Trends:
+- Between 2020 and 2021, the company exhibited steady improvements in both revenue and customer activity, indicating effective strategic adjustments.
+- The data shows a notable jump in performance during 2021 compared to 2020, highlighting a successful adaptation to market challenges.
+- An increase in AOV from 2020 to 2021 suggests that customers are either purchasing higher-priced products or increasing their purchase quantities, which significantly contributed to overall revenue growth.
+- Seasonal spikes, especially during Q4, are evident in the dashboard, emphasizing the importance of targeted holiday campaigns and promotions.
+
+![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
+
