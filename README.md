@@ -38,3 +38,11 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/%E2%80%8F%E2%80%8F%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%20(1517).png?raw=true)
 
+## Target Achievement Analysis:
+- Revenue consistently tracked upward against targets from 2015 to 2021, with the most dramatic growth occurring between 2020 and 2021.
+- The company achieved $179.55M in revenue against a goal of $179.25M in 2021, successfully exceeding their target by a small margin.
+- The visualization shows a widening gap between actual revenue and target between 2017-2020, followed by significant acceleration in 2021.
+- Year-over-year target achievement demonstrates the company's increasing ability to set realistic yet ambitious goals while building momentum in market performance.
+- The steady progression from approximately $60M in 2015 to nearly $180M in 2021 represents a compound growth pattern that outpaced initial forecasts.
+
+
