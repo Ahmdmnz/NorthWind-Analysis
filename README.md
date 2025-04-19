@@ -45,4 +45,4 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - Year-over-year target achievement demonstrates the company's increasing ability to set realistic yet ambitious goals while building momentum in market performance.
 - The steady progression from approximately $60M in 2015 to nearly $180M in 2021 represents a compound growth pattern that outpaced initial forecasts.
 
-
+![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-04-19%20191917.png)
