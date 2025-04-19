@@ -1,26 +1,22 @@
 # Project Background
-Northwind Traders is a small business that imports and exports specialty foods globally. Its dataset provides a comprehensive view of operations, encompassing orders, products, customers, suppliers, shipping, employees, and basic accounting.
-
-In this project, i focus on extracting critical insights around sales performance, customer behavior, product trends, and operational efficiency. By analyzing these aspects, we aim to deliver actionable recommendations that can guide strategic decisions and drive business growth.
+Spaero Technology is an aerospace manufacturing firm with operational data spanning from 2015 to 2021. This analysis framework outlines the key metrics and analytical approaches we'll use to evaluate the company's performance and identify strategic opportunities.
+Insights & Analytical Focus Areas
 
 Insights & Recommendations  
-- **Sales Performance**  
-  We focus on Total Revenue to gauge overall success, track Sales Growth Rate to spot trends over time, use Average Order Value (AOV) to refine pricing, and break    down Revenue Segmentation by product, category, and region to see what’s driving results.  
+- **Sales Performance Analysis**  
+  We focus on Total Revenue to gauge overall success, track Sales Growth Rate to spot trends over time, use Average Order Value (AOV) to evaluate contract value 
+  evolution, and break down Revenue Segmentation by time period to identify performance patterns.
 
-- **Customer Behavior**  
+- **Year-over-Year Trend Analysis**  
   Understanding Customer Lifetime Value (CLV)** helps prioritize high-value clients, while the Repeat Purchase Rate signals loyalty. Highlighting Top Customers       guides retention efforts, and the Customer Retention Rate shows how well we keep shoppers coming back.  
 
-- **Order Fulfillment & Shipping**  
-  We measure On-Time Delivery Rate to ensure reliability, monitor Average Shipping Time to catch delays, and keep Freight Cost as % of Sales in check to balance     efficiency and expenses.  
+- **Target Achievement Metrics**  
+  We evaluate Revenue to Target measurements to assess how effectively the company is meeting its established goals, while tracking the progression of target 
+  achievement across the 2015-2021 timeline.
 
-- **Product & Inventory Management**  
-  Spotlighting Top-Selling Products helps allocate resources, Product Contribution to Revenue identifies star performers, Inventory Turnover (if tracked) optimizes   stock levels, and Supplier Lead Time ensures timely restocking.  
-
-- **Employee Performance**  
-  Sales per Employee and Orders Handled per Employee reveal productivity gaps, while Employee Sales Growth highlights who’s excelling over time. 
-
-- **Financial Health**  
-  Gross Profit Margin keeps tabs on operational efficiency, and Net Profit Margin tells the full story of profitability after all costs.
+- **Historical Revenue Patterns**  
+  Through both cumulative and monthly revenue analysis, we highlight growth trajectories and identify critical turning points in the company's financial 
+  performance. 
 
 # Data Structure & Initial Chcks
 North Wind's database structure as seen bellow consist of eight tables: Employees, Calendar, Products, Suppliers, Orders, Order Details, Categories, Customers.
