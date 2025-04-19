@@ -28,7 +28,7 @@ Company Sales have continued to increase, with significant increase in 2021. Key
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report.
 
-![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-31%20051222.png?raw=true)
+![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-04-19%20191732.png)
 
 ## Sales Trends:
 - Between 2020 and 2021, the company exhibited steady improvements in both revenue and customer activity, indicating effective strategic adjustments.
