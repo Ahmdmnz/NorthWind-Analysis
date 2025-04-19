@@ -19,7 +19,7 @@ Insights & Recommendations
   performance. 
 
 # Data Structure & Initial Chcks
-North Wind's database structure as seen bellow consist of eight tables: Employees, Calendar, Products, Suppliers, Orders, Order Details, Categories, Customers.
+Spaero Technology's database structure as seen in the image consists of five main tables: Customers, Sales, Cash Flow, Target, and Dates, with a measurements table.
 ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-29%20062536.png?raw=true)
 
 # Excutive Summary
