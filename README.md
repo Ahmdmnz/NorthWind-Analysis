@@ -20,7 +20,7 @@ Insights & Recommendations
 
 # Data Structure & Initial Chcks
 Spaero Technology's database structure as seen in the image consists of five main tables: Customers, Sales, Cash Flow, Target, and Dates, with a measurements table.
-![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-03-29%20062536.png?raw=true)
+![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-04-19%20190308.png)
 
 # Excutive Summary
 ## Overview of Findings
