@@ -18,7 +18,7 @@ Insights & Recommendations
   Through both cumulative and monthly revenue analysis, we highlight growth trajectories and identify critical turning points in the company's financial 
   performance. 
 
-The power BI file [here](Financial Project.pbix)
+The power BI file [here](https://github.com/Ahmdmnz/analysis-of-Spaero-Technology-s-performance/blob/26410cb11eafb18b252982afdf9cb6a53c23f4e6/Financial%20Project.pbix)
 # Data Structure & Initial Chcks
 Spaero Technology's database structure as seen in the image consists of five main tables: Customers, Sales, Cash Flow, Target, and Dates, with a measurements table.
 ![image](https://github.com/Ahmdmnz/NorthWind-Analysis/blob/main/Screenshot%202025-04-19%20190308.png)
